@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: azure;
+    color: rgb(0, 140, 255);
+}
+
+#mostrar{
+    background-color: blue;
+    color: white;
+}
+
+#ordenar{
+    background-color: rgb(0, 229, 255);
+    color: white;
+}
